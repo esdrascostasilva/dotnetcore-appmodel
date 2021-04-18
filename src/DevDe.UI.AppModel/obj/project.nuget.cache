@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/QE1SwW0IrrDO5Z/wyBRrjGC1H2i3jNQNR6tGAOubSGs/B31YYr+iJrsUa0ZZe9S4uWpodK5GF8Iky4b3CaiNQ==",
+  "dgSpecHash": "j3c638ArEnnWLfRCKfuGBgocC7i9Hler4l2Sd+uq6pIZxJeqXO9M8hvfcg7itD+QyI3cHYkkH+uc4keSsTVN/w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Esdras Costa\\01.PROJECTS\\byMe\\AppModelo\\src\\DevDe.UI.AppModel\\DevDe.UI.AppModel.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Esdras Costa\\.nuget\\packages\\buildbundlerminifier\\3.2.449\\buildbundlerminifier.3.2.449.nupkg.sha512",
     "C:\\Users\\Esdras Costa\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Esdras Costa\\.nuget\\packages\\microsoft.aspnetcore\\2.2.0\\microsoft.aspnetcore.2.2.0.nupkg.sha512",
     "C:\\Users\\Esdras Costa\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",

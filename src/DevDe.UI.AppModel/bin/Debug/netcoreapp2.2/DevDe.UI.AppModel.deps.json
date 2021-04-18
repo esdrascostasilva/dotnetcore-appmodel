@@ -29,6 +29,7 @@
     ".NETCoreApp,Version=v2.2": {
       "DevDe.UI.AppModel/1.0.0": {
         "dependencies": {
+          "BuildBundlerMinifier": "3.2.449",
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.NETCore.App": "2.2.0"
@@ -40,6 +41,7 @@
           "DevDe.UI.AppModel.dll": {}
         }
       },
+      "BuildBundlerMinifier/3.2.449": {},
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
         "dependencies": {
           "Newtonsoft.Json": "11.0.2",
@@ -3241,6 +3243,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "BuildBundlerMinifier/3.2.449": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uA9sYDy4VepL3xwzBTLcP2LyuVYMt0ZIT3gaSiXvGoX15Ob+rOP+hGydhevlSVd+rFo+Y+VQFEHDuWU8HBW+XA==",
+      "path": "buildbundlerminifier/3.2.449",
+      "hashPath": "buildbundlerminifier.3.2.449.nupkg.sha512"
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",

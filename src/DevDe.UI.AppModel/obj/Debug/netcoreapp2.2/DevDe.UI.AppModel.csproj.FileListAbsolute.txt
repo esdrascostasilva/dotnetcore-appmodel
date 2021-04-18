@@ -24,3 +24,8 @@ C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\obj\Debug
 C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\obj\Debug\netcoreapp2.2\DevDe.UI.AppModel.RazorTargetAssemblyInfo.cs
 C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\obj\Debug\netcoreapp2.2\DevDe.UI.AppModel.Views.pdb
 C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\obj\Debug\netcoreapp2.2\DevDe.UI.AppModel.csproj.CopyComplete
+C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\bin\Debug\netcoreapp2.2\libman.json
+C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\bin\Debug\netcoreapp2.2\bundleconfig.json
