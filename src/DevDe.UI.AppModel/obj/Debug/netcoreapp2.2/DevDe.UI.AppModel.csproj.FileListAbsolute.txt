@@ -5,7 +5,6 @@ C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\bin\Debug
 C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\bin\Debug\netcoreapp2.2\DevDe.UI.AppModel.runtimeconfig.dev.json
 C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\bin\Debug\netcoreapp2.2\DevDe.UI.AppModel.dll
 C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\bin\Debug\netcoreapp2.2\DevDe.UI.AppModel.pdb
-C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\obj\Debug\netcoreapp2.2\DevDe.UI.AppModel.csprojAssemblyReference.cache
 C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\obj\Debug\netcoreapp2.2\DevDe.UI.AppModel.AssemblyInfoInputs.cache
 C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\obj\Debug\netcoreapp2.2\DevDe.UI.AppModel.AssemblyInfo.cs
 C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\obj\Debug\netcoreapp2.2\DevDe.UI.AppModel.csproj.CoreCompileInputs.cache
@@ -29,3 +28,9 @@ C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\obj\Debug
 C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\bin\Debug\netcoreapp2.2\libman.json
 C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\bin\Debug\netcoreapp2.2\bundleconfig.json
+C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\obj\Debug\netcoreapp2.2\Razor\Areas\Products\Views\Register\Index.cshtml.g.cs
+C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\obj\Debug\netcoreapp2.2\Razor\Areas\Products\Views\_ViewStart.cshtml.g.cs
+C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\obj\Debug\netcoreapp2.2\DevDe.UI.AppModel.csprojAssemblyReference.cache
+C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\obj\Debug\netcoreapp2.2\Razor\Areas\Products\Views\Register\Search.cshtml.g.cs
+C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\obj\Debug\netcoreapp2.2\Razor\Areas\Sales\Views\_ViewStart.cshtml.g.cs
+C:\Users\Esdras Costa\01.PROJECTS\byMe\AppModelo\src\DevDe.UI.AppModel\obj\Debug\netcoreapp2.2\Razor\Areas\Sales\Views\Order\Index.cshtml.g.cs
