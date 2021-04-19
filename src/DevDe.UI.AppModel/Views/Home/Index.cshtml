@@ -1,1 +1,6 @@
-﻿Ola, My name is Esdras Costa.
+﻿@using DevDe.UI.AppModel.Data
+@inject IOrderRepository OrderRepository
+
+Ola, My name is Esdras Costa.
+
+@OrderRepository.GetOrder().Id

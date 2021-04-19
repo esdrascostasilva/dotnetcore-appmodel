@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using DevDe.UI.AppModel.Data;
+using DevDe.UI.AppModel.Services;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -26,8 +28,16 @@ namespace DevDe.UI.AppModel
             //    options.AreaViewLocationFormats.Add(item: "/Views/Shared/{0}.cshtml");
             //});
 
-
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+
+            services.AddTransient<IOrderRepository, OrderRepository>();
+
+            services.AddTransient<IOperationTransient, Operation>();
+            services.AddScoped<IOperationScoped, Operation>();
+            services.AddSingleton<IOperationSingleton, Operation>();
+            services.AddSingleton<IOperationSingletonInstance>(new Operation(id: Guid.Empty));
+
+            services.AddTransient<OperationService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

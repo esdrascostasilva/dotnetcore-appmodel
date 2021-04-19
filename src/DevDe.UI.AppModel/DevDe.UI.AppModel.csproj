@@ -28,7 +28,6 @@
     <Folder Include="Areas\Products\Models\" />
     <Folder Include="Areas\Sales\Data\" />
     <Folder Include="Areas\Sales\Models\" />
-    <Folder Include="Models\" />
   </ItemGroup>
 
 </Project>
