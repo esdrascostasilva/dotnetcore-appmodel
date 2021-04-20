@@ -5,6 +5,8 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Razor;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -17,6 +19,14 @@ namespace DevDe.UI.AppModel
     {
         // This method gets called by the runtime. Use this method to add services to the container.
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
+        
+        public IConfiguration Configuration { get; }
+
+        public Startup(IConfiguration configuration)
+        {
+            Configuration = configuration;
+        }
+        
         public void ConfigureServices(IServiceCollection services)
         {
             // Code for to rename "Area" (ps. Modulos)
@@ -28,6 +38,9 @@ namespace DevDe.UI.AppModel
             //    options.AreaViewLocationFormats.Add(item: "/Views/Shared/{0}.cshtml");
             //});
 
+            services.AddDbContext<MyDbContext>(optionsAction: options =>
+                options.UseSqlServer(Configuration.GetConnectionString(name: "MyDbContext")));
+            
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
             services.AddTransient<IOrderRepository, OrderRepository>();
